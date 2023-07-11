@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain**|Xiangman Li et.al.|[2307.04316](http://arxiv.org/abs/2307.04316)|null|
 |**2023-07-05**|**Formally Verifying a Real World Smart Contract**|Alexandre Mota et.al.|[2307.02325](http://arxiv.org/abs/2307.02325)|null|
 |**2023-07-05**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
 |**2023-07-02**|**Abusing the Ethereum Smart Contract Verification Services for Fun and Profit**|Pengxiang Ma et.al.|[2307.00549](http://arxiv.org/abs/2307.00549)|null|
