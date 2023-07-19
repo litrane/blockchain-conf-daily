@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**CONTRACTFIX: A Framework for Automatically Fixing Vulnerabilities in Smart Contracts**|Pengcheng Fang et.al.|[2307.08912](http://arxiv.org/abs/2307.08912)|null|
 |**2023-07-17**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549](http://arxiv.org/abs/2307.08549)|null|
 |**2023-07-14**|**A Blockchain-Based Framework for Distributed Agile Software Testing Life Cycle**|Muhammad Shoaib Farooq et.al.|[2307.07212](http://arxiv.org/abs/2307.07212)|null|
 |**2023-07-09**|**MentalHealthAI: Utilizing Personal Health Device Data to Optimize Psychiatry Treatment**|Manan Shukla et.al.|[2307.04777](http://arxiv.org/abs/2307.04777)|null|
@@ -62,7 +63,7 @@
 |**2023-05-04**|**Understand Waiting Time in Transaction Fee Mechanism: An Interdisciplinary Perspective**|Luyao Zhang et.al.|[2305.02552](http://arxiv.org/abs/2305.02552)|**[link](https://github.com/cs-econ-blockchain/waiting-time-eip1559)**|
 |**2023-04-30**|**Breaking Blockchain Rationality with Out-of-Band Collusion**|Haoqian Zhang et.al.|[2305.00554](http://arxiv.org/abs/2305.00554)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
