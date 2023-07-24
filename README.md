@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -64,7 +64,7 @@
 |**2023-05-04**|**Understand Waiting Time in Transaction Fee Mechanism: An Interdisciplinary Perspective**|Luyao Zhang et.al.|[2305.02552](http://arxiv.org/abs/2305.02552)|**[link](https://github.com/cs-econ-blockchain/waiting-time-eip1559)**|
 |**2023-04-30**|**Breaking Blockchain Rationality with Out-of-Band Collusion**|Haoqian Zhang et.al.|[2305.00554](http://arxiv.org/abs/2305.00554)|null|
 
-<p align=right>(<a href=#Updated-on-20230723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
