@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Smart Contract Migration: Security Analysis and Recommendations from Ethereum to Arbitrum**|Xueyan Tang et.al.|[2307.14773](http://arxiv.org/abs/2307.14773)|null|
 |**2023-07-23**|**Content Censorship in the InterPlanetary File System**|Srivatsan Sridhar et.al.|[2307.12212](http://arxiv.org/abs/2307.12212)|null|
 |**2023-07-22**|**Blockchain-based Cloud Data Deduplication Scheme with Fair Incentives**|Mallikarjun Reddy Dorsala et.al.|[2307.12052](http://arxiv.org/abs/2307.12052)|null|
 |**2023-07-19**|**Blockchain-Based Federated Learning: Incentivizing Data Sharing and Penalizing Dishonest Behavior**|Amir Jaberzadeh et.al.|[2307.10492](http://arxiv.org/abs/2307.10492)|null|
