@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-23**|**Implementing Smart Contracts: The case of NFT-rental with pay-per-like**|Alfred Sopi et.al.|[2308.02424](http://arxiv.org/abs/2308.02424)|null|
 |**2023-08-02**|**Stake Your Claim: Zero-Trust Validator Deployment Leveraging NFTs and Smart Contracts in Proof-of-Stake Networks**|Scott Seidenberger et.al.|[2308.01158](http://arxiv.org/abs/2308.01158)|null|
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Smart Contract Migration: Security Analysis and Recommendations from Ethereum to Arbitrum**|Xueyan Tang et.al.|[2307.14773](http://arxiv.org/abs/2307.14773)|null|
