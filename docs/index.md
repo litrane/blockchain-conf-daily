@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -24,7 +24,7 @@ layout: default
 |**2023-07-17**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549](http://arxiv.org/abs/2307.08549)|null|
 |**2023-07-14**|**A Blockchain-Based Framework for Distributed Agile Software Testing Life Cycle**|Muhammad Shoaib Farooq et.al.|[2307.07212](http://arxiv.org/abs/2307.07212)|null|
 |**2023-07-09**|**MentalHealthAI: Utilizing Personal Health Device Data to Optimize Psychiatry Treatment**|Manan Shukla et.al.|[2307.04777](http://arxiv.org/abs/2307.04777)|null|
-|**2023-07-11**|**Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain**|Xiangman Li et.al.|[2307.04316](http://arxiv.org/abs/2307.04316)|null|
+|**2023-08-04**|**Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain**|Xiangman Li et.al.|[2307.04316](http://arxiv.org/abs/2307.04316)|null|
 |**2023-07-05**|**Formally Verifying a Real World Smart Contract**|Alexandre Mota et.al.|[2307.02325](http://arxiv.org/abs/2307.02325)|null|
 |**2023-07-05**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
 |**2023-07-02**|**Abusing the Ethereum Smart Contract Verification Services for Fun and Profit**|Pengxiang Ma et.al.|[2307.00549](http://arxiv.org/abs/2307.00549)|null|
@@ -50,7 +50,7 @@ layout: default
 |**2023-06-02**|**Proxy Re-encryption based Fair Trade Protocol for Digital Goods Transactions via Smart Contracts**|Peng Zhang et.al.|[2306.01299](http://arxiv.org/abs/2306.01299)|null|
 |**2023-05-31**|**Efficiency-Improved Inter-Rollup Transfer System Leveraging Batch Settlement Methods**|Hyun Jeong et.al.|[2305.19514](http://arxiv.org/abs/2305.19514)|null|
 |**2023-05-28**|**Understanding Blockchain Governance: Analyzing Decentralized Voting to Amend DeFi Smart Contracts**|Johnnatan Messias et.al.|[2305.17655](http://arxiv.org/abs/2305.17655)|null|
-|**2023-05-25**|**Definition and Detection of Defects in NFT Smart Contracts**|Shuo Yang et.al.|[2305.15829](http://arxiv.org/abs/2305.15829)|**[link](https://github.com/nftdefects/nftdefects)**|
+|**2023-08-04**|**Definition and Detection of Defects in NFT Smart Contracts**|Shuo Yang et.al.|[2305.15829](http://arxiv.org/abs/2305.15829)|**[link](https://github.com/nftdefects/nftdefects)**|
 |**2023-05-25**|**Towards Automated Security Analysis of Smart Contracts based on Execution Property Graph**|Kaihua Qin et.al.|[2305.14046](http://arxiv.org/abs/2305.14046)|null|
 |**2023-04-27**|**Medical Data Asset Management and an Approach for Disease Prediction using Blockchain and Machine Learning**|Shruthi K et.al.|[2305.11063](http://arxiv.org/abs/2305.11063)|null|
 |**2023-05-16**|**Secure compilation of rich smart contracts on poor UTXO blockchains**|Massimo Bartoletti et.al.|[2305.09545](http://arxiv.org/abs/2305.09545)|null|
