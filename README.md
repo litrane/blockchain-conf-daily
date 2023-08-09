@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006](http://arxiv.org/abs/2308.04006)|null|
+|**2023-08-07**|**ForensiBlock: A Provenance-Driven Blockchain Framework for Data Forensics and Auditability**|Asma Jodeiri Akbarfam et.al.|[2308.03927](http://arxiv.org/abs/2308.03927)|null|
+|**2023-07-25**|**Towards Integrated Traffic Control with Operating Decentralized Autonomous Organization**|Shengyue Yao et.al.|[2308.03769](http://arxiv.org/abs/2308.03769)|null|
 |**2023-08-07**|**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**|Yuqiang Sun et.al.|[2308.03314](http://arxiv.org/abs/2308.03314)|null|
 |**2023-08-05**|**Who is Smarter? An Empirical Study of AI-based Smart Contract Creation**|Rabimba Karanjai et.al.|[2308.02955](http://arxiv.org/abs/2308.02955)|null|
 |**2023-07-23**|**Implementing Smart Contracts: The case of NFT-rental with pay-per-like**|Alfred Sopi et.al.|[2308.02424](http://arxiv.org/abs/2308.02424)|**[link](https://github.com/asopi/rental-project)**|
