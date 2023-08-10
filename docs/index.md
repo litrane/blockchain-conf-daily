@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Appending Data to Blockchain is not Sufficient for Non-repudiation of Receipt**|Valentin Zieglmeier et.al.|[2308.04781](http://arxiv.org/abs/2308.04781)|null|
+|**2023-07-25**|**Blockchain-based Optimized Client Selection and Privacy Preserved Framework for Federated Learning**|Attia Qammar et.al.|[2308.04442](http://arxiv.org/abs/2308.04442)|null|
 |**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006](http://arxiv.org/abs/2308.04006)|null|
 |**2023-08-07**|**ForensiBlock: A Provenance-Driven Blockchain Framework for Data Forensics and Auditability**|Asma Jodeiri Akbarfam et.al.|[2308.03927](http://arxiv.org/abs/2308.03927)|null|
 |**2023-07-25**|**Towards Integrated Traffic Control with Operating Decentralized Autonomous Organization**|Shengyue Yao et.al.|[2308.03769](http://arxiv.org/abs/2308.03769)|null|
