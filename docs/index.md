@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -43,7 +43,7 @@ layout: default
 |**2023-06-22**|**Do you still need a manual smart contract audit?**|Isaac David et.al.|[2306.12338](http://arxiv.org/abs/2306.12338)|null|
 |**2023-06-20**|**Protecting the Decentralized Future: An Exploration of Common Blockchain Attacks and their Countermeasures**|Bilash Saha et.al.|[2306.11884](http://arxiv.org/abs/2306.11884)|null|
 |**2023-06-19**|**Blockchain-Enabled Federated Learning: A Reference Architecture Incorporating a DID Access System**|Eunsu Goh et.al.|[2306.10841](http://arxiv.org/abs/2306.10841)|null|
-|**2023-06-18**|**Understanding and Characterizing Cryptocurrency Free Giveaway and Arbitrage Bot Scams In the Wild**|Kai Li et.al.|[2306.10634](http://arxiv.org/abs/2306.10634)|**[link](https://github.com/likai1993/cryptoscamhunter)**|
+|**2023-08-10**|**Understanding the Cryptocurrency Free Giveaway Scam Disseminated on Twitter Lists**|Kai Li et.al.|[2306.10634](http://arxiv.org/abs/2306.10634)|**[link](https://github.com/likai1993/cryptoscamhunter)**|
 |**2023-06-13**|**RETINA: Distributed and Secure Trust Management for Smart Grid Applications and Energy Trading**|Vaios Boulgourasa et.al.|[2306.08074](http://arxiv.org/abs/2306.08074)|null|
 |**2023-06-08**|**Cross Chain Bribery Contracts: Majority vs Mighty Minority**|Quang Tran et.al.|[2306.07984](http://arxiv.org/abs/2306.07984)|null|
 |**2023-05-17**|**Leveraging Machine Learning for Multichain DeFi Fraud Detection**|Georgios Palaiokrassas et.al.|[2306.07972](http://arxiv.org/abs/2306.07972)|null|
