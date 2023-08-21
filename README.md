@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2023-06-26**|**A Framework for Securing Health Information Using Blockchain in Cloud Hosted Cyber Physical Systems**|Aisha Banu et.al.|[2306.17084](http://arxiv.org/abs/2306.17084)|null|
 |**2023-06-22**|**Do you still need a manual smart contract audit?**|Isaac David et.al.|[2306.12338](http://arxiv.org/abs/2306.12338)|null|
 |**2023-06-20**|**Protecting the Decentralized Future: An Exploration of Common Blockchain Attacks and their Countermeasures**|Bilash Saha et.al.|[2306.11884](http://arxiv.org/abs/2306.11884)|null|
-|**2023-06-19**|**Blockchain-Enabled Federated Learning: A Reference Architecture Incorporating a DID Access System**|Eunsu Goh et.al.|[2306.10841](http://arxiv.org/abs/2306.10841)|null|
+|**2023-08-18**|**Blockchain-Enabled Federated Learning: A Reference Architecture Design, Implementation, and Verification**|Eunsu Goh et.al.|[2306.10841](http://arxiv.org/abs/2306.10841)|null|
 |**2023-08-10**|**Understanding the Cryptocurrency Free Giveaway Scam Disseminated on Twitter Lists**|Kai Li et.al.|[2306.10634](http://arxiv.org/abs/2306.10634)|**[link](https://github.com/likai1993/cryptoscamhunter)**|
 |**2023-06-13**|**RETINA: Distributed and Secure Trust Management for Smart Grid Applications and Energy Trading**|Vaios Boulgourasa et.al.|[2306.08074](http://arxiv.org/abs/2306.08074)|null|
 |**2023-06-08**|**Cross Chain Bribery Contracts: Majority vs Mighty Minority**|Quang Tran et.al.|[2306.07984](http://arxiv.org/abs/2306.07984)|null|
@@ -78,7 +78,7 @@
 |**2023-05-04**|**Understand Waiting Time in Transaction Fee Mechanism: An Interdisciplinary Perspective**|Luyao Zhang et.al.|[2305.02552](http://arxiv.org/abs/2305.02552)|**[link](https://github.com/cs-econ-blockchain/waiting-time-eip1559)**|
 |**2023-04-30**|**Breaking Blockchain Rationality with Out-of-Band Collusion**|Haoqian Zhang et.al.|[2305.00554](http://arxiv.org/abs/2305.00554)|null|
 
-<p align=right>(<a href=#Updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
