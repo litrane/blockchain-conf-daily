@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -21,7 +21,7 @@ layout: default
 |**2023-08-07**|**ForensiBlock: A Provenance-Driven Blockchain Framework for Data Forensics and Auditability**|Asma Jodeiri Akbarfam et.al.|[2308.03927](http://arxiv.org/abs/2308.03927)|null|
 |**2023-07-25**|**Towards Integrated Traffic Control with Operating Decentralized Autonomous Organization**|Shengyue Yao et.al.|[2308.03769](http://arxiv.org/abs/2308.03769)|null|
 |**2023-08-07**|**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**|Yuqiang Sun et.al.|[2308.03314](http://arxiv.org/abs/2308.03314)|null|
-|**2023-08-05**|**Who is Smarter? An Empirical Study of AI-based Smart Contract Creation**|Rabimba Karanjai et.al.|[2308.02955](http://arxiv.org/abs/2308.02955)|null|
+|**2023-08-19**|**An Empirical Study of AI-based Smart Contract Creation**|Rabimba Karanjai et.al.|[2308.02955](http://arxiv.org/abs/2308.02955)|null|
 |**2023-07-23**|**Implementing Smart Contracts: The case of NFT-rental with pay-per-like**|Alfred Sopi et.al.|[2308.02424](http://arxiv.org/abs/2308.02424)|**[link](https://github.com/asopi/rental-project)**|
 |**2023-08-02**|**Stake Your Claim: Zero-Trust Validator Deployment Leveraging NFTs and Smart Contracts in Proof-of-Stake Networks**|Scott Seidenberger et.al.|[2308.01158](http://arxiv.org/abs/2308.01158)|null|
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|

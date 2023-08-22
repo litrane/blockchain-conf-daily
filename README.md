@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2023-08-07**|**ForensiBlock: A Provenance-Driven Blockchain Framework for Data Forensics and Auditability**|Asma Jodeiri Akbarfam et.al.|[2308.03927](http://arxiv.org/abs/2308.03927)|null|
 |**2023-07-25**|**Towards Integrated Traffic Control with Operating Decentralized Autonomous Organization**|Shengyue Yao et.al.|[2308.03769](http://arxiv.org/abs/2308.03769)|null|
 |**2023-08-07**|**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**|Yuqiang Sun et.al.|[2308.03314](http://arxiv.org/abs/2308.03314)|null|
-|**2023-08-05**|**Who is Smarter? An Empirical Study of AI-based Smart Contract Creation**|Rabimba Karanjai et.al.|[2308.02955](http://arxiv.org/abs/2308.02955)|null|
+|**2023-08-19**|**An Empirical Study of AI-based Smart Contract Creation**|Rabimba Karanjai et.al.|[2308.02955](http://arxiv.org/abs/2308.02955)|null|
 |**2023-07-23**|**Implementing Smart Contracts: The case of NFT-rental with pay-per-like**|Alfred Sopi et.al.|[2308.02424](http://arxiv.org/abs/2308.02424)|**[link](https://github.com/asopi/rental-project)**|
 |**2023-08-02**|**Stake Your Claim: Zero-Trust Validator Deployment Leveraging NFTs and Smart Contracts in Proof-of-Stake Networks**|Scott Seidenberger et.al.|[2308.01158](http://arxiv.org/abs/2308.01158)|null|
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
@@ -78,7 +78,7 @@
 |**2023-05-04**|**Understand Waiting Time in Transaction Fee Mechanism: An Interdisciplinary Perspective**|Luyao Zhang et.al.|[2305.02552](http://arxiv.org/abs/2305.02552)|**[link](https://github.com/cs-econ-blockchain/waiting-time-eip1559)**|
 |**2023-04-30**|**Breaking Blockchain Rationality with Out-of-Band Collusion**|Haoqian Zhang et.al.|[2305.00554](http://arxiv.org/abs/2305.00554)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
