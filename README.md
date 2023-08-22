@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Static Application Security Testing of Consensus-Critical Code in the Cosmos Network**|Jasper Surmont et.al.|[2308.10613](http://arxiv.org/abs/2308.10613)|null|
+|**2023-08-20**|**To Healthier Ethereum: A Comprehensive and Iterative Smart Contract Weakness Enumeration**|Jiachi Chen et.al.|[2308.10227](http://arxiv.org/abs/2308.10227)|null|
+|**2023-08-19**|**Hummingbird: A Flexible and Lightweight Inter-Domain Bandwidth-Reservation System**|Giacomo Giuliari et.al.|[2308.09959](http://arxiv.org/abs/2308.09959)|null|
 |**2023-08-12**|**A First Study of MEV on an Up-and-Coming Blockchain: Algorand**|Burak Öz et.al.|[2308.06513](http://arxiv.org/abs/2308.06513)|null|
 |**2023-08-09**|**Appending Data to Blockchain is not Sufficient for Non-repudiation of Receipt**|Valentin Zieglmeier et.al.|[2308.04781](http://arxiv.org/abs/2308.04781)|null|
 |**2023-07-25**|**Blockchain-based Optimized Client Selection and Privacy Preserved Framework for Federated Learning**|Attia Qammar et.al.|[2308.04442](http://arxiv.org/abs/2308.04442)|null|
