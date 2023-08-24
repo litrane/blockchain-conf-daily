@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-21**|**PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities**|Majd Soud et.al.|[2308.11082](http://arxiv.org/abs/2308.11082)|null|
-|**2023-08-21**|**Static Application Security Testing of Consensus-Critical Code in the Cosmos Network**|Jasper Surmont et.al.|[2308.10613](http://arxiv.org/abs/2308.10613)|null|
+|**2023-08-21**|**Static Application Security Testing of Consensus-Critical Code in the Cosmos Network**|Jasper Surmont et.al.|[2308.10613](http://arxiv.org/abs/2308.10613)|**[link](https://github.com/jaspersurmont/cosmos-sdk-codeql)**|
 |**2023-08-20**|**To Healthier Ethereum: A Comprehensive and Iterative Smart Contract Weakness Enumeration**|Jiachi Chen et.al.|[2308.10227](http://arxiv.org/abs/2308.10227)|null|
 |**2023-08-19**|**Hummingbird: A Flexible and Lightweight Inter-Domain Bandwidth-Reservation System**|Giacomo Giuliari et.al.|[2308.09959](http://arxiv.org/abs/2308.09959)|null|
 |**2023-08-12**|**A First Study of MEV on an Up-and-Coming Blockchain: Algorand**|Burak Öz et.al.|[2308.06513](http://arxiv.org/abs/2308.06513)|null|
@@ -82,7 +82,7 @@
 |**2023-05-04**|**Understand Waiting Time in Transaction Fee Mechanism: An Interdisciplinary Perspective**|Luyao Zhang et.al.|[2305.02552](http://arxiv.org/abs/2305.02552)|**[link](https://github.com/cs-econ-blockchain/waiting-time-eip1559)**|
 |**2023-04-30**|**Breaking Blockchain Rationality with Out-of-Band Collusion**|Haoqian Zhang et.al.|[2305.00554](http://arxiv.org/abs/2305.00554)|null|
 
-<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
