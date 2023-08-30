@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
+|**2023-08-29**|**PTTS: Zero-Knowledge Proof-based Private Token Transfer System on Ethereum Blockchain and its Network Flow Based Balance Range Privacy Attack Analysis**|Goshgar Ismayilov et.al.|[2308.15139](http://arxiv.org/abs/2308.15139)|null|
 |**2023-08-24**|**A Blockchain based Fund Management System for Construction Projects -- A Comprehensive Case Study in Xiong'an New Area China**|Wenlue Song et.al.|[2308.12834](http://arxiv.org/abs/2308.12834)|null|
 |**2023-08-21**|**PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities**|Majd Soud et.al.|[2308.11082](http://arxiv.org/abs/2308.11082)|null|
 |**2023-08-21**|**Static Application Security Testing of Consensus-Critical Code in the Cosmos Network**|Jasper Surmont et.al.|[2308.10613](http://arxiv.org/abs/2308.10613)|**[link](https://github.com/jaspersurmont/cosmos-sdk-codeql)**|
