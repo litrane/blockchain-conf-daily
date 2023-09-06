@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-31**|**Improving Robustness and Accuracy of Ponzi Scheme Detection on Ethereum Using Time-Dependent Features**|Phuong Duy Huynh et.al.|[2308.16391](http://arxiv.org/abs/2308.16391)|null|
-|**2023-08-30**|**AI-powered Fraud Detection in Decentralized Finance: A Project Life Cycle Perspective**|Bingqiao Luo et.al.|[2308.15992](http://arxiv.org/abs/2308.15992)|null|
+|**2023-09-02**|**AI-powered Fraud Detection in Decentralized Finance: A Project Life Cycle Perspective**|Bingqiao Luo et.al.|[2308.15992](http://arxiv.org/abs/2308.15992)|null|
 |**2023-08-30**|**Securing Blockchain Systems: A Novel Collaborative Learning Framework to Detect Attacks in Transactions and Smart Contracts**|Tran Viet Khoa et.al.|[2308.15804](http://arxiv.org/abs/2308.15804)|null|
 |**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
 |**2023-08-29**|**PTTS: Zero-Knowledge Proof-based Private Token Transfer System on Ethereum Blockchain and its Network Flow Based Balance Range Privacy Attack Analysis**|Goshgar Ismayilov et.al.|[2308.15139](http://arxiv.org/abs/2308.15139)|null|
