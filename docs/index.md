@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-05**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
+|**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
 |**2023-09-03**|**Digital Twins and Blockchain for IoT Management**|Mayra Samaniego et.al.|[2309.01042](http://arxiv.org/abs/2309.01042)|null|
 |**2023-08-31**|**Improving Robustness and Accuracy of Ponzi Scheme Detection on Ethereum Using Time-Dependent Features**|Phuong Duy Huynh et.al.|[2308.16391](http://arxiv.org/abs/2308.16391)|null|
 |**2023-09-02**|**AI-powered Fraud Detection in Decentralized Finance: A Project Life Cycle Perspective**|Bingqiao Luo et.al.|[2308.15992](http://arxiv.org/abs/2308.15992)|null|
