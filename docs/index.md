@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-12**|**When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?**|Chong Chen et.al.|[2309.05520](http://arxiv.org/abs/2309.05520)|null|
+|**2023-09-14**|**When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?**|Chong Chen et.al.|[2309.05520](http://arxiv.org/abs/2309.05520)|null|
 |**2023-09-06**|**Fuzz on the Beach: Fuzzing Solana Smart Contracts**|Sven Smolka et.al.|[2309.03006](http://arxiv.org/abs/2309.03006)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
 |**2023-09-03**|**Digital Twins and Blockchain for IoT Management**|Mayra Samaniego et.al.|[2309.01042](http://arxiv.org/abs/2309.01042)|null|
