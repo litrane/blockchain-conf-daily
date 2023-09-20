@@ -14,10 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**DeFi composability as MEV non-interference**|Massimo Bartoletti et.al.|[2309.10781](http://arxiv.org/abs/2309.10781)|null|
 |**2023-09-18**|**Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding**|André Storhaug et.al.|[2309.09826](http://arxiv.org/abs/2309.09826)|null|
 |**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
 |**2023-09-14**|**Two Timin': Repairing Smart Contracts With A Two-Layered Approach**|Abhinav Jain et.al.|[2309.07841](http://arxiv.org/abs/2309.07841)|null|
 |**2023-09-14**|**When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?**|Chong Chen et.al.|[2309.05520](http://arxiv.org/abs/2309.05520)|null|
+|**2023-09-19**|**From Programming Bugs to Multimillion-Dollar Scams: An Analysis of Trapdoor Tokens on Decentralized Exchanges**|Phuong Duy Huynh et.al.|[2309.04700](http://arxiv.org/abs/2309.04700)|null|
 |**2023-09-06**|**Fuzz on the Beach: Fuzzing Solana Smart Contracts**|Sven Smolka et.al.|[2309.03006](http://arxiv.org/abs/2309.03006)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
 |**2023-09-03**|**Digital Twins and Blockchain for IoT Management**|Mayra Samaniego et.al.|[2309.01042](http://arxiv.org/abs/2309.01042)|null|
