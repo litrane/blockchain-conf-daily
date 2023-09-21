@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Is Ethereum Proof of Stake Sustainable? $-$ Considering from the Perspective of Competition Among Smart Contract Platforms $-$**|Kenji Saito et.al.|[2309.11394](http://arxiv.org/abs/2309.11394)|null|
+|**2023-09-20**|**Lazy Contracts: Alleviating High Gas Costs by Secure and Trustless Off-chain Execution of Smart Contracts**|Soroush Farokhnia et.al.|[2309.11317](http://arxiv.org/abs/2309.11317)|null|
 |**2023-09-19**|**DeFi composability as MEV non-interference**|Massimo Bartoletti et.al.|[2309.10781](http://arxiv.org/abs/2309.10781)|null|
 |**2023-09-18**|**Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding**|André Storhaug et.al.|[2309.09826](http://arxiv.org/abs/2309.09826)|null|
 |**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
