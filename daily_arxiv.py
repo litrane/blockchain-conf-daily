@@ -150,8 +150,8 @@ def get_daily_papers(topic, query="slam", max_results=2):
                     update_time, paper_title, paper_first_author, paper_url, paper_url, repo_url, repo_url)
 
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                    update_time, paper_title, paper_first_author, paper_key, paper_url)
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})| {} |\n".format(
+                    update_time, paper_title, paper_first_author, paper_key, paper_url, paper_abstract)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                     update_time, paper_title, paper_first_author, paper_url, paper_url)
 
