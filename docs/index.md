@@ -64,6 +64,7 @@ layout: default
 |**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
 |**2023-08-29**|**PTTS: Zero-Knowledge Proof-based Private Token Transfer System on Ethereum Blockchain and its Network Flow Based Balance Range Privacy Attack Analysis**|Goshgar Ismayilov et.al.|[2308.15139](http://arxiv.org/abs/2308.15139)|null|
 |**2023-08-24**|**A Blockchain based Fund Management System for Construction Projects -- A Comprehensive Case Study in Xiong'an New Area China**|Wenlue Song et.al.|[2308.12834](http://arxiv.org/abs/2308.12834)|null|
+|**2023-09-18**|**Blockchain-Powered Supply Chain Management for Kidney Organ Preservation**|Kapil Panda et.al.|[2308.11169](http://arxiv.org/abs/2308.11169)|null|
 |**2023-08-21**|**PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities**|Majd Soud et.al.|[2308.11082](http://arxiv.org/abs/2308.11082)|null|
 |**2023-08-21**|**Static Application Security Testing of Consensus-Critical Code in the Cosmos Network**|Jasper Surmont et.al.|[2308.10613](http://arxiv.org/abs/2308.10613)|**[link](https://github.com/jaspersurmont/cosmos-sdk-codeql)**|
 |**2023-08-20**|**To Healthier Ethereum: A Comprehensive and Iterative Smart Contract Weakness Enumeration**|Jiachi Chen et.al.|[2308.10227](http://arxiv.org/abs/2308.10227)|null|
@@ -71,8 +72,10 @@ layout: default
 |**2023-08-12**|**A First Study of MEV on an Up-and-Coming Blockchain: Algorand**|Burak Öz et.al.|[2308.06513](http://arxiv.org/abs/2308.06513)|null|
 |**2023-08-09**|**Appending Data to Blockchain is not Sufficient for Non-repudiation of Receipt**|Valentin Zieglmeier et.al.|[2308.04781](http://arxiv.org/abs/2308.04781)|null|
 |**2023-07-25**|**Blockchain-based Optimized Client Selection and Privacy Preserved Framework for Federated Learning**|Attia Qammar et.al.|[2308.04442](http://arxiv.org/abs/2308.04442)|null|
+|**2023-09-13**|**Chrisimos: A useful Proof-of-Work for finding Minimal Dominating Set of a graph**|Diptendu Chatterjee et.al.|[2308.04407](http://arxiv.org/abs/2308.04407)|null|
 |**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006](http://arxiv.org/abs/2308.04006)|null|
 |**2023-08-07**|**ForensiBlock: A Provenance-Driven Blockchain Framework for Data Forensics and Auditability**|Asma Jodeiri Akbarfam et.al.|[2308.03927](http://arxiv.org/abs/2308.03927)|null|
+|**2023-09-21**|**Enabling Data Confidentiality with Public Blockchains**|Edoardo Marangone et.al.|[2308.03791](http://arxiv.org/abs/2308.03791)|null|
 |**2023-07-25**|**Towards Integrated Traffic Control with Operating Decentralized Autonomous Organization**|Shengyue Yao et.al.|[2308.03769](http://arxiv.org/abs/2308.03769)|null|
 |**2023-08-07**|**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**|Yuqiang Sun et.al.|[2308.03314](http://arxiv.org/abs/2308.03314)|null|
 |**2023-08-19**|**An Empirical Study of AI-based Smart Contract Creation**|Rabimba Karanjai et.al.|[2308.02955](http://arxiv.org/abs/2308.02955)|null|
@@ -87,9 +90,11 @@ layout: default
 |**2023-07-17**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549](http://arxiv.org/abs/2307.08549)|null|
 |**2023-07-14**|**A Blockchain-Based Framework for Distributed Agile Software Testing Life Cycle**|Muhammad Shoaib Farooq et.al.|[2307.07212](http://arxiv.org/abs/2307.07212)|null|
 |**2023-07-09**|**MentalHealthAI: Utilizing Personal Health Device Data to Optimize Psychiatry Treatment**|Manan Shukla et.al.|[2307.04777](http://arxiv.org/abs/2307.04777)|null|
+|**2023-09-11**|**A Privacy-Preserving and Accountable Billing Protocol for Peer-to-Peer Energy Trading Markets**|Kamil Erdayandi et.al.|[2307.04501](http://arxiv.org/abs/2307.04501)|null|
 |**2023-08-04**|**Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain**|Xiangman Li et.al.|[2307.04316](http://arxiv.org/abs/2307.04316)|null|
 |**2023-07-05**|**Formally Verifying a Real World Smart Contract**|Alexandre Mota et.al.|[2307.02325](http://arxiv.org/abs/2307.02325)|null|
-|**2023-07-05**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
+|**2023-09-18**|**Trust in Software Supply Chains: Blockchain-Enabled SBOM and the AIBOM Future**|Boming Xia et.al.|[2307.02088](http://arxiv.org/abs/2307.02088)|null|
+|**2023-09-22**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
 |**2023-07-02**|**Abusing the Ethereum Smart Contract Verification Services for Fun and Profit**|Pengxiang Ma et.al.|[2307.00549](http://arxiv.org/abs/2307.00549)|null|
 |**2023-07-02**|**Defending Against Malicious Behaviors in Federated Learning with Blockchain**|Nanqing Dong et.al.|[2307.00543](http://arxiv.org/abs/2307.00543)|null|
 |**2023-06-23**|**Blockchain-based Federated Learning for Decentralized Energy Management Systems**|Abdulrezzak Zekiye et.al.|[2306.17186](http://arxiv.org/abs/2306.17186)|null|
@@ -102,7 +107,7 @@ layout: default
 |**2023-06-13**|**RETINA: Distributed and Secure Trust Management for Smart Grid Applications and Energy Trading**|Vaios Boulgourasa et.al.|[2306.08074](http://arxiv.org/abs/2306.08074)|null|
 |**2023-06-08**|**Cross Chain Bribery Contracts: Majority vs Mighty Minority**|Quang Tran et.al.|[2306.07984](http://arxiv.org/abs/2306.07984)|null|
 |**2023-05-17**|**Leveraging Machine Learning for Multichain DeFi Fraud Detection**|Georgios Palaiokrassas et.al.|[2306.07972](http://arxiv.org/abs/2306.07972)|null|
-|**2023-06-09**|**Front-running Attack in Distributed Sharded Ledgers and Fair Cross-shard Consensus**|Jianting Zhang et.al.|[2306.06299](http://arxiv.org/abs/2306.06299)|null|
+|**2023-09-09**|**Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus**|Jianting Zhang et.al.|[2306.06299](http://arxiv.org/abs/2306.06299)|null|
 |**2023-06-09**|**The Potential of Self-Regulation for Front-Running Prevention on DEXes**|Lioba Heimbach et.al.|[2306.05756](http://arxiv.org/abs/2306.05756)|null|
 |**2023-06-08**|**SmartBugs 2.0: An Execution Framework for Weakness Detection in Ethereum Smart Contracts**|Monika di Angelo et.al.|[2306.05057](http://arxiv.org/abs/2306.05057)|**[link](https://github.com/smartbugs/smartbugs)**|
 |**2023-06-08**|**Parallel and Asynchronous Smart Contract Execution**|Jian Liu et.al.|[2306.05007](http://arxiv.org/abs/2306.05007)|null|
@@ -111,6 +116,7 @@ layout: default
 |**2023-06-05**|**Modular zk-Rollup On-Demand**|Thomas Lavaur et.al.|[2306.02785](http://arxiv.org/abs/2306.02785)|**[link](https://github.com/thomaslavaur/modular-zk-rollup-on-demand)**|
 |**2023-06-02**|**SourceP: Smart Ponzi Schemes Detection on Ethereum Using Pre-training Model with Data Flow**|Pengcheng Lu et.al.|[2306.01665](http://arxiv.org/abs/2306.01665)|null|
 |**2023-06-02**|**Proxy Re-encryption based Fair Trade Protocol for Digital Goods Transactions via Smart Contracts**|Peng Zhang et.al.|[2306.01299](http://arxiv.org/abs/2306.01299)|null|
+|**2023-09-08**|**Sustainable AI Regulation**|Philipp Hacker et.al.|[2306.00292](http://arxiv.org/abs/2306.00292)|null|
 |**2023-05-31**|**Efficiency-Improved Inter-Rollup Transfer System Leveraging Batch Settlement Methods**|Hyun Jeong et.al.|[2305.19514](http://arxiv.org/abs/2305.19514)|null|
 |**2023-05-28**|**Understanding Blockchain Governance: Analyzing Decentralized Voting to Amend DeFi Smart Contracts**|Johnnatan Messias et.al.|[2305.17655](http://arxiv.org/abs/2305.17655)|null|
 |**2023-08-04**|**Definition and Detection of Defects in NFT Smart Contracts**|Shuo Yang et.al.|[2305.15829](http://arxiv.org/abs/2305.15829)|**[link](https://github.com/nftdefects/nftdefects)**|
@@ -123,11 +129,18 @@ layout: default
 |**2023-05-14**|**CLawK: Monitoring Business Processes in Smart Contracts**|Mojtaba Eshghie et.al.|[2305.08254](http://arxiv.org/abs/2305.08254)|**[link](https://github.com/mojtaba-eshghie/clawk)**|
 |**2023-05-11**|**SigRec: Automatic Recovery of Function Signatures in Smart Contracts**|Ting Chen et.al.|[2305.07067](http://arxiv.org/abs/2305.07067)|null|
 |**2023-05-10**|**Unraveling the MEV Enigma: ABI-Free Detection Model using Graph Neural Networks**|Seongwan Park et.al.|[2305.05952](http://arxiv.org/abs/2305.05952)|null|
-|**2023-05-08**|**Capturing Smart Contract Design with DCR Graphs**|Mojtaba Eshghie et.al.|[2305.04581](http://arxiv.org/abs/2305.04581)|**[link](https://github.com/mojtaba-eshghie/soliditydesignpatternsdcrgraph)**|
+|**2023-09-16**|**Capturing Smart Contract Design with DCR Graphs**|Mojtaba Eshghie et.al.|[2305.04581](http://arxiv.org/abs/2305.04581)|**[link](https://github.com/mojtaba-eshghie/SmartContractDesignPatternsInDCRGraphs)**|
 |**2023-05-07**|**Stackelberg Attacks or: How I Learned to Stop Worrying and Trust the Blockchain**|Daji Landis et.al.|[2305.04373](http://arxiv.org/abs/2305.04373)|null|
 |**2023-05-06**|**A Blockchain-based Platform for Reliable Inference and Training of Large-Scale Models**|Sanghyeon Park et.al.|[2305.04062](http://arxiv.org/abs/2305.04062)|null|
 |**2023-05-04**|**Understand Waiting Time in Transaction Fee Mechanism: An Interdisciplinary Perspective**|Luyao Zhang et.al.|[2305.02552](http://arxiv.org/abs/2305.02552)|**[link](https://github.com/cs-econ-blockchain/waiting-time-eip1559)**|
+|**2023-09-17**|**AI & Blockchain as sustainable teaching and learning tools to cope with the 4IR**|Md Aminul Islam et.al.|[2305.01088](http://arxiv.org/abs/2305.01088)|null|
 |**2023-04-30**|**Breaking Blockchain Rationality with Out-of-Band Collusion**|Haoqian Zhang et.al.|[2305.00554](http://arxiv.org/abs/2305.00554)|null|
+|**2023-09-14**|**A Note on the Welfare Gap in Fair Ordering**|Theo Diamandis et.al.|[2303.15239](http://arxiv.org/abs/2303.15239)|**[link](https://github.com/bcc-research/fifo-note)**|
+|**2023-09-08**|**Maximizing Miner Revenue in Transaction Fee Mechanism Design**|Ke Wu et.al.|[2302.12895](http://arxiv.org/abs/2302.12895)|null|
+|**2023-09-14**|**Ethereum Proof-of-Stake under Scrutiny**|Ulysse Pavloff et.al.|[2210.16070](http://arxiv.org/abs/2210.16070)|null|
+|**2023-09-21**|**TrustBoost: Boosting Trust among Interoperable Blockchains**|Peiyao Sheng et.al.|[2210.11571](http://arxiv.org/abs/2210.11571)|null|
+|**2023-09-11**|**Strategic Latency Reduction in Blockchain Peer-to-Peer Networks**|Weizhao Tang et.al.|[2205.06837](http://arxiv.org/abs/2205.06837)|**[link](https://github.com/weizhaot/geth_peri)**|
+|**2023-09-09**|**Content Addressed P2P File System for the Web with Blockchain-Based Meta-Data Integrity**|Chaitanya Rahalkar et.al.|[1912.10298](http://arxiv.org/abs/1912.10298)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
