@@ -14,16 +14,49 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Optimal Dynamic Fees for Blockchain Resources**|Davide Crapis et.al.|[2309.12735](http://arxiv.org/abs/2309.12735)|null|
+|**2023-09-22**|**Cuttlefish: Expressive Fast Path Blockchains with FastUnlock**|Lefteris Kokoris-Kogias et.al.|[2309.12715](http://arxiv.org/abs/2309.12715)|null|
+|**2023-09-22**|**HammerHead: Leader Reputation for Dynamic Scheduling**|Giorgos Tsimos et.al.|[2309.12713](http://arxiv.org/abs/2309.12713)|null|
+|**2023-09-22**|**MEV Makes Everyone Happy under Greedy Sequencing Rule**|Yuhao Li et.al.|[2309.12640](http://arxiv.org/abs/2309.12640)|null|
+|**2023-09-22**|**Driving with Guidance: Exploring the Trade-Off Between GPS Utility and Privacy Concerns Among Drivers**|Yousef AlSaqabi et.al.|[2309.12601](http://arxiv.org/abs/2309.12601)|null|
+|**2023-09-21**|**Two Fish Encryption Based Blockchain Technology for Secured Data Storage**|Dinesh Kumar K et.al.|[2309.11770](http://arxiv.org/abs/2309.11770)|null|
 |**2023-09-20**|**Is Ethereum Proof of Stake Sustainable? $-$ Considering from the Perspective of Competition Among Smart Contract Platforms $-$**|Kenji Saito et.al.|[2309.11394](http://arxiv.org/abs/2309.11394)|null|
 |**2023-09-20**|**Lazy Contracts: Alleviating High Gas Costs by Secure and Trustless Off-chain Execution of Smart Contracts**|Soroush Farokhnia et.al.|[2309.11317](http://arxiv.org/abs/2309.11317)|null|
+|**2023-09-20**|**A Game-theoretic Approach for Provably-Uniform Random Number Generation in Decentralized Networks**|Zhuo Cai et.al.|[2309.11250](http://arxiv.org/abs/2309.11250)|null|
+|**2023-09-20**|**A Model-Based Machine Learning Approach for Assessing the Performance of Blockchain Applications**|Adel Albshri et.al.|[2309.11205](http://arxiv.org/abs/2309.11205)|**[link](https://github.com/AlbshriAdel/BlockchainPerformanceML)**|
+|**2023-09-20**|**Poster: Accountable Processing of Reported Street Problems**|Roman Matzutt et.al.|[2309.11146](http://arxiv.org/abs/2309.11146)|null|
 |**2023-09-19**|**DeFi composability as MEV non-interference**|Massimo Bartoletti et.al.|[2309.10781](http://arxiv.org/abs/2309.10781)|null|
 |**2023-09-18**|**Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding**|André Storhaug et.al.|[2309.09826](http://arxiv.org/abs/2309.09826)|null|
+|**2023-09-18**|**New Bounds on the Accuracy of Majority Voting for Multi-Class Classification**|Sina Aeeneh et.al.|[2309.09564](http://arxiv.org/abs/2309.09564)|null|
+|**2023-09-18**|**Stochastic Performance Analysis of Phase Decomposition in Hyperledger Fabric**|Canhui Wang et.al.|[2309.09547](http://arxiv.org/abs/2309.09547)|null|
+|**2023-09-18**|**Proof-of-Prospect-Theory: A Novel Game-based Consensus Mechanism for Blockchain**|Yuqi Xie et.al.|[2309.09529](http://arxiv.org/abs/2309.09529)|null|
 |**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
 |**2023-09-14**|**Two Timin': Repairing Smart Contracts With A Two-Layered Approach**|Abhinav Jain et.al.|[2309.07841](http://arxiv.org/abs/2309.07841)|null|
+|**2023-09-18**|**Almost sure one-endedness of a random graph model of distributed ledgers**|Jiewei Feng et.al.|[2309.07774](http://arxiv.org/abs/2309.07774)|null|
+|**2023-09-11**|**On the Potential and Limitations of Proxy Voting: Delegation with Incomplete Votes**|Georgios Amanatidis et.al.|[2309.05642](http://arxiv.org/abs/2309.05642)|null|
 |**2023-09-14**|**When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?**|Chong Chen et.al.|[2309.05520](http://arxiv.org/abs/2309.05520)|null|
+|**2023-09-10**|**Federated Learning Incentive Mechanism under Buyers' Auction Market**|Jiaxi Yang et.al.|[2309.05063](http://arxiv.org/abs/2309.05063)|null|
+|**2023-09-10**|**Information Theory of Blockchain Systems**|Quan-Lin Li et.al.|[2309.04959](http://arxiv.org/abs/2309.04959)|null|
 |**2023-09-21**|**From Programming Bugs to Multimillion-Dollar Scams: An Analysis of Trapdoor Tokens on Decentralized Exchanges**|Phuong Duy Huynh et.al.|[2309.04700](http://arxiv.org/abs/2309.04700)|**[link](https://github.com/bsdp2023/trapdoor_tool)**|
+|**2023-09-09**|**A Data Middleware for Obtaining Trusted Price Data for Blockchain**|Youquan Xian et.al.|[2309.04689](http://arxiv.org/abs/2309.04689)|null|
+|**2023-09-16**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|Chenhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
+|**2023-09-08**|**Blockchain-enabled Data Governance for Privacy-Preserved Sharing of Confidential Data**|Jingchi Zhang et.al.|[2309.04125](http://arxiv.org/abs/2309.04125)|null|
+|**2023-09-07**|**An Adaptive and Modular Blockchain Enabled Architecture for a Decentralized Metaverse**|Ye Cheng et.al.|[2309.03502](http://arxiv.org/abs/2309.03502)|null|
+|**2023-09-06**|**A Novel Approach for Invoice Management using Blockchain**|Nikhil Sontakke et.al.|[2309.03303](http://arxiv.org/abs/2309.03303)|null|
+|**2023-09-06**|**A Peer-to-Peer Energy Trading Framework in Distribution Systems Considering Network Constraints**|Saeed Nasiri et.al.|[2309.03132](http://arxiv.org/abs/2309.03132)|null|
 |**2023-09-06**|**Fuzz on the Beach: Fuzzing Solana Smart Contracts**|Sven Smolka et.al.|[2309.03006](http://arxiv.org/abs/2309.03006)|null|
+|**2023-09-06**|**Navigating the IoT landscape: Unraveling forensics, security issues, applications, research challenges, and future**|Shams Forruque Ahmed et.al.|[2309.02707](http://arxiv.org/abs/2309.02707)|null|
+|**2023-09-05**|**Quantum Voting and Violation of Gibbard-Satterthwaite's Impossibility Theorem**|Ethan Dickey et.al.|[2309.02593](http://arxiv.org/abs/2309.02593)|null|
+|**2023-09-05**|**A Social Network Approach to Analyzing Token Properties and Abnormal Events in Decentralized Exchanges**|Aryan Soltani Mohammadi et.al.|[2309.02579](http://arxiv.org/abs/2309.02579)|null|
+|**2023-09-05**|**Mind the Gap: The Difference Between Coverage and Mutation Score Can Guide Testing Efforts**|Kush Jain et.al.|[2309.02395](http://arxiv.org/abs/2309.02395)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
+|**2023-09-05**|**Smoothening block rewards: How much should miners pay for mining pools?**|Axel Cortes-Cubero et.al.|[2309.02297](http://arxiv.org/abs/2309.02297)|null|
+|**2023-09-05**|**Blockchain-assisted Twin Migration for Vehicular Metaverses: A Game Theory Approach**|Yue Zhong et.al.|[2309.02173](http://arxiv.org/abs/2309.02173)|null|
+|**2023-09-11**|**Dual Auction Mechanism for Transaction Forwarding and Validation in Complex Wireless Blockchain Network**|Weiyi Wang et.al.|[2309.01920](http://arxiv.org/abs/2309.01920)|null|
+|**2023-09-04**|**Pisces: Private and Compliable Cryptocurrency Exchange**|Ya-nan Li et.al.|[2309.01667](http://arxiv.org/abs/2309.01667)|null|
+|**2023-09-04**|**Social Factors in P2P Energy Trading Using Hedonic Games**|Dan Mitrea et.al.|[2309.01418](http://arxiv.org/abs/2309.01418)|null|
+|**2023-09-04**|**Synchro: Block-generation Protocol to Synchronously Process Cross-shard Transactions in State Sharding**|Takaki Asanuma et.al.|[2309.01332](http://arxiv.org/abs/2309.01332)|null|
+|**2023-09-03**|**Liquid Democracy in DPoS Blockchains**|Chao Li et.al.|[2309.01090](http://arxiv.org/abs/2309.01090)|null|
 |**2023-09-03**|**Digital Twins and Blockchain for IoT Management**|Mayra Samaniego et.al.|[2309.01042](http://arxiv.org/abs/2309.01042)|null|
 |**2023-08-31**|**Improving Robustness and Accuracy of Ponzi Scheme Detection on Ethereum Using Time-Dependent Features**|Phuong Duy Huynh et.al.|[2308.16391](http://arxiv.org/abs/2308.16391)|null|
 |**2023-09-02**|**AI-powered Fraud Detection in Decentralized Finance: A Project Life Cycle Perspective**|Bingqiao Luo et.al.|[2308.15992](http://arxiv.org/abs/2308.15992)|null|

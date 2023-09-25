@@ -23,5 +23,5 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "blockchain": 
-        filters: ["blockchain", "smart contract"]
+        filters: ["blockchain"]
 
