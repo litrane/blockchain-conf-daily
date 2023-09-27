@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -153,7 +153,7 @@
 |**2023-09-24**|**Always on Voting: A Framework for Repetitive Voting on the Blockchain**|Sarad Venugopalan et.al.|[2107.10571](http://arxiv.org/abs/2107.10571)| Elections repeat commonly after a fixed time interval, ranging from months to years. This results in limitations on governance since elected candidates or policies are difficult to remove before the next elections, if needed, and allowed by the corresponding law. Participants may decide (through a public deliberation) to change their choices but have no opportunity to vote for these choices before the next elections. Another issue is the peak-end effect, where the judgment of voters is based on how they felt a short time before the elections. To address these issues, we propose Always on Voting (AoV) -- a repetitive voting framework that allows participants to vote and change elected candidates or policies without waiting for the next elections. Participants are permitted to privately change their vote at any point in time, while the effect of their change is manifested at the end of each epoch, whose duration is shorter than the time between two main elections. To thwart the problem of peak-end effect in epochs, the ends of epochs are randomized and made unpredictable, while preserved within soft bounds. These goals are achieved using the synergy between a Bitcoin puzzle oracle, verifiable delay function, and smart contracts. |
 |**2023-09-09**|**Content Addressed P2P File System for the Web with Blockchain-Based Meta-Data Integrity**|Chaitanya Rahalkar et.al.|[1912.10298](http://arxiv.org/abs/1912.10298)| With the exponentially scaled World Wide Web, the standard HTTP protocol has started showing its limitations. With the increased amount of data duplication & accidental deletion of files on the Internet, the P2P file system called IPFS completely changes the way files are stored. IPFS is a file storage protocol allowing files to be stored on decentralized systems. In the HTTP client-server protocol, files are downloaded from a single source. With files stored on a decentralized network, IPFS allows packet retrieval from multiple sources, simultaneously saving considerable bandwidth. IPFS uses a content-addressed block storage model with content-addressed hyperlinks. Large amounts of data is addressable with IPFS with the immutable and permanent IPFS links with meta-data stored as Blockchain transactions. This timestamps and secures the data, instead of having to put it on the chain itself. Our paper proposes a model that uses the decentralized file storage system of IPFS, and the integrity preservation properties of the Blockchain, to store and distribute data on the Web. |
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
