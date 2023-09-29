@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -157,7 +157,7 @@
 |**2023-09-27**|**SoK: A Taxonomy for Critical Analysis of Consensus Mechanisms in Consortium Blockchain**|Wei Yao et.al.|[2102.12058](http://arxiv.org/abs/2102.12058)| Consensus algorithms are central to blockchain technology and an emerging research area. In this paper, we begin with an overview of the different types and architectures of blockchain networks. Then, with a focus on consortium blockchains, we survey, classify, and assess their principal consensus mechanisms. Furthermore, as consensus mechanisms determine network reliability, enhance performance efficiency, and ensure system security, we conduct a critical analysis of the strengths and weaknesses of consensus algorithms using a taxonomy of three different criteria: reliability, performance, and security. We conclude with insights into current and future research challenges and opportunities in this domain. |
 |**2023-09-09**|**Content Addressed P2P File System for the Web with Blockchain-Based Meta-Data Integrity**|Chaitanya Rahalkar et.al.|[1912.10298](http://arxiv.org/abs/1912.10298)| With the exponentially scaled World Wide Web, the standard HTTP protocol has started showing its limitations. With the increased amount of data duplication & accidental deletion of files on the Internet, the P2P file system called IPFS completely changes the way files are stored. IPFS is a file storage protocol allowing files to be stored on decentralized systems. In the HTTP client-server protocol, files are downloaded from a single source. With files stored on a decentralized network, IPFS allows packet retrieval from multiple sources, simultaneously saving considerable bandwidth. IPFS uses a content-addressed block storage model with content-addressed hyperlinks. Large amounts of data is addressable with IPFS with the immutable and permanent IPFS links with meta-data stored as Blockchain transactions. This timestamps and secures the data, instead of having to put it on the chain itself. Our paper proposes a model that uses the decentralized file storage system of IPFS, and the integrity preservation properties of the Blockchain, to store and distribute data on the Web. |
 
-<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230929>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
