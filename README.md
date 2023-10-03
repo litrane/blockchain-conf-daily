@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.02
+## Updated on 2023.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -161,7 +161,7 @@
 |**2023-09-09**|**Content Addressed P2P File System for the Web with Blockchain-Based Meta-Data Integrity**|Chaitanya Rahalkar et.al.|[1912.10298](http://arxiv.org/abs/1912.10298)| With the exponentially scaled World Wide Web, the standard HTTP protocol has started showing its limitations. With the increased amount of data duplication & accidental deletion of files on the Internet, the P2P file system called IPFS completely changes the way files are stored. IPFS is a file storage protocol allowing files to be stored on decentralized systems. In the HTTP client-server protocol, files are downloaded from a single source. With files stored on a decentralized network, IPFS allows packet retrieval from multiple sources, simultaneously saving considerable bandwidth. IPFS uses a content-addressed block storage model with content-addressed hyperlinks. Large amounts of data is addressable with IPFS with the immutable and permanent IPFS links with meta-data stored as Blockchain transactions. This timestamps and secures the data, instead of having to put it on the chain itself. Our paper proposes a model that uses the decentralized file storage system of IPFS, and the integrity preservation properties of the Blockchain, to store and distribute data on the Web. |
 |**2023-09-24**|**BlockTag: Design and applications of a tagging system for blockchain analysis**|Yazan Boshmaf et.al.|[1809.06044](http://arxiv.org/abs/1809.06044)| Annotating blockchains with auxiliary data is useful for many applications. For example, e-crime investigations of illegal Tor hidden services, such as Silk Road, often involve linking Bitcoin addresses, from which money is sent or received, to user accounts and related online activities. We present BlockTag, an open-source tagging system for blockchains that facilitates such tasks. We describe BlockTag's design and present three analyses that illustrate its capabilities in the context of privacy research and law enforcement. |
 
-<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
