@@ -7,7 +7,36 @@ import logging
 import argparse
 import datetime
 import requests
+confs = [
+"Symposium on Networked Systems Design and Implementation",
+ "USENIX Symposium on Operating Systems Design and Implementation",
+"Symposium on Operating Systems Principles",
+"IEEE International Conference on Data Engineering",
+"IEEE Conference on Computer Communications",
+"Dependable Systems and Networks",
+"International Conference on Web Services",
+"International Conference on Software Engineering",
+"Comput. Networks",
+"European Conference on Computer Systems",
+"International Middleware Conference",
+"Conference on Innovative Data Systems Research",
+"SDM",
+"International Workshop on the Semantic Web",
+"Knowledge and Information Systems",
+"Industrial Conference on Data Mining",
+"International Conference on Information and Knowledge Management",
+"Web Search and Data Mining",
+"International Workshop on Quality of Service",
+"IEEE International Symposium on Software Reliability Engineering",
+"IEEE International Conference on Software Maintenance and Evolution",
+"International Conference on Database Systems for Advanced Applications",
+"Knowledge Discovery and Data Mining",
+"IEEE Transactions on Mobile Computing",
+"IEEE Transactions on Neural Networks and Learning Systems",
+    "International Conference on Distributed Computing Systems",
 
+    # add more URLs as needed
+]
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
@@ -100,67 +129,73 @@ def get_daily_papers(topic, query="slam", max_results=2):
     content = dict()
     content_to_web = dict()
     print(f"topic: {query}")
-    search_engine = arxiv.Search(
-        query=query,
-        max_results=max_results,
-        sort_by=arxiv.SortCriterion.LastUpdatedDate,
-        sort_order=arxiv.SortOrder.Descending
-    )
+    # search_engine = arxiv.Search(
+    #     query=query,
+    #     max_results=max_results,
+    #     sort_by=arxiv.SortCriterion.LastUpdatedDate,
+    #     sort_order=arxiv.SortOrder.Descending
+    # )
+    url = f"https://api.semanticscholar.org/graph/v1/paper/search/bulk?query={query}&fields=title,paperId,venue,year,abstract,externalIds&sort=publicationDate:desc"
+    # print(url)
+    # url = f"https://api.semanticscholar.org/graph/v1/paper/search/bulk?query={keyword1}&venue={conf}&fields=title,paperId,venue,year,externalIds&sort=publicationDate:desc"
 
-    for result in search_engine.results():
-        print(result.title)
-        paper_id = result.get_short_id()
-        paper_title = result.title
-        paper_url = result.entry_id
+    # Send a GET request to the DBLP API
+    response = requests.get(url)
+
+    # Parse the JSON response
+    res = response.json()
+    # print(res)
+    data = res['data']
+    for result in data:
+        # print(result['title'])
+    #     id = i['paperId']
+    #     abstract = i['abstract']
+    #     year = i['year']
+        paper_id = result['paperId']
+        paper_title = result['title']
         code_url = base_url + paper_id  # TODO
-        paper_abstract = result.summary.replace("\n", " ")
-        paper_authors = get_authors(result.authors)
-        paper_first_author = get_authors(result.authors, first_author=True)
-        primary_category = result.primary_category
-        publish_time = result.published.date()
-        update_time = result.updated.date()
-        comments = result.comment
+        paper_abstract = result['abstract']
+        # paper_authors = get_authors(result.authors)
+        # paper_first_author = get_authors(result.authors, first_author=True)
+        # primary_category = result.primary_category
+        publish_time = result['year']
+        # update_time = result.updated.date()
+        # comments = result.comment
 
-        logging.info(
-            f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+        # logging.info(
+        #     f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
         # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]
-        paper_url = arxiv_url + 'abs/' + paper_key
+        # ver_pos = paper_id.find('v')
+        # if ver_pos == -1:
+        #     paper_key = paper_id
+        # else:
+        paper_key = paper_id
+        paper_url = result["externalIds"]
 
         try:
             # source code link
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            # r = requests.get(code_url).json()
+            # repo_url = None
+            # if "official" in r and r["official"]:
+            #     repo_url = r["official"]["url"]
             # TODO: not found, two more chances
             # else:
             #    repo_url = get_code_link(paper_title)
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                    update_time, paper_title, paper_first_author, paper_key, paper_url, repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                    update_time, paper_title, paper_first_author, paper_url, paper_url, repo_url, repo_url)
+            # if repo_url is not None:
+            #     content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+            #          paper_title , paper_key, paper_url, repo_url)
+            #     content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+            #          paper_title, paper_url, paper_url, repo_url, repo_url)
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})| {} |\n".format(
-                    update_time, paper_title, paper_first_author, paper_key, paper_url, paper_abstract)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                    update_time, paper_title, paper_first_author, paper_url, paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+            # else:
+            if result["venue"] in confs:
+                content[paper_key] = "|**{}**|**{}**| {} |\n".format(
+                    paper_title,  result["venue"],  paper_abstract)
+                content_to_web[paper_key] = "**{}**".format(
+                    paper_title)
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
@@ -169,64 +204,6 @@ def get_daily_papers(topic, query="slam", max_results=2):
     data_web = {topic: content_to_web}
     return data, data_web
 
-
-def update_paper_links(filename):
-    '''
-    weekly update paper links in json file 
-    '''
-    def parse_arxiv_string(s):
-        parts = s.split("|")
-        date = parts[1].strip()
-        title = parts[2].strip()
-        authors = parts[3].strip()
-        arxiv_id = parts[4].strip()
-        code = parts[5].strip()
-        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date, title, authors, arxiv_id, code
-
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-
-        json_data = m.copy()
-
-        for keywords, v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id, contents in v.items():
-                contents = str(contents)
-
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(
-                    contents)
-
-                contents = "|{}|{}|{}|{}|{}|\n".format(
-                    update_time, paper_title, paper_first_author, paper_url, code_url)
-                json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
-
-                valid_link = False if '|null|' in contents else True
-                if valid_link:
-                    continue
-                try:
-                    code_url = base_url + paper_id  # TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace(
-                                '|null|', f'|**[link]({repo_url})**|')
-                            logging.info(
-                                f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
-
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
-        # dump to json file
-        with open(filename, "w") as f:
-            json.dump(json_data, f)
 
 
 def update_json_file(filename, data_dict):
@@ -419,11 +396,8 @@ def demo(**config):
         json_file = config['json_readme_path']
         md_file = config['md_readme_path']
         # update paper links
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:
             # update json data
-            update_json_file(json_file, data_collector)
+        update_json_file(json_file, data_collector)
         # json data to markdown
         json_to_md(json_file, md_file, task='Update Readme',
                    show_badge=show_badge)
@@ -433,10 +407,8 @@ def demo(**config):
         json_file = config['json_gitpage_path']
         md_file = config['md_gitpage_path']
         # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:
-            update_json_file(json_file, data_collector)
+
+        update_json_file(json_file, data_collector)
         json_to_md(json_file, md_file, task='Update GitPage',
                    to_web=True, show_badge=show_badge,
                    use_tc=False, use_b2t=False)
@@ -446,10 +418,8 @@ def demo(**config):
         json_file = config['json_wechat_path']
         md_file = config['md_wechat_path']
         # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:
-            update_json_file(json_file, data_collector_web)
+
+        update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task='Update Wechat',
                    to_web=False, use_title=False, show_badge=show_badge)
 
