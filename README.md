@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**Practical Byzantine Fault Tolerance-Enhanced Blockchain-Enabled Data Sharing System: Latency and Age of Data Package Analysis**|**IEEE Transactions on Mobile Computing**| Data timeliness, privacy, and security are key enablers for data-sharing systems to support time-sensitive and mission-critical systems and applications. While blockchain-enabled data sharing frameworks can offer reliable security and privacy when properly implemented, the timeliness of data and the related latency are important issues that can limit the adoption of blockchain in large-scale mission-critical applications. This paper thus carried out a performance analysis of the blockchain-enabled data-sharing framework from latency and data age perspectives to investigate the suitability of blockchain technology in data sharing systems. To achieve this, the uniqueness of such systems such as transactions validation latency, transaction generation rate, waiting time, blockchain-appending rate, and overall communication latency were jointly studied. The communication latency was characterized following the spatiotemporal modeling approach. We further adopted the practical Byzantine fault tolerance (PBFT) consensus protocol due to its well discussed suitability in large-scale data sharing applications and captured the validation stages of such a PBFT scheme using the Erlang distribution of order <inline-formula><tex-math notation="LaTeX"> $k$ </tex-math><alternatives><mml:math><mml:mi>k</mml:mi></mml:math><inline-graphic xlink:href="cai-ieq1-3223306.gif"/></alternatives></inline-formula>. Simulations results show that various influential system parameters must be carefully considered when adopting blockchain technology in time-sensitive data sharing applications. This will guide the adoption of blockchain technology in various data sharing applications and systems. |
 |**Directed dynamic attribute graph anomaly detection based on evolved graph attention for blockchain**|**Knowledge and Information Systems**| None |
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
