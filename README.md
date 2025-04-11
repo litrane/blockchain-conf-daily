@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -89,7 +89,7 @@
 |**Multi-Modal Federated Learning Based Resources Convergence for Satellite-Ground Twin Networks**|**IEEE Transactions on Mobile Computing**| None |
 |**BEET: Blockchain Enabled Energy Trading for E-Mobility Oriented Electric Vehicles**|**IEEE Transactions on Mobile Computing**| Renewable Energy Sources (RESs) are gaining considerable attention to reduce human dependence on fossil fuels and minimize harmful gases in our surroundings. Existing literature on energy trading focused on providing renewable energy to smart homes, smart buildings, and smart offices to fulfill their daily energy demands obtained from RESs. Besides, Electric Vehicles (EVs) use either power grid energy or a battery exchange mechanism to recharge their low EV batteries. The continuous use of power grids to recharge low EV batteries causes a significant load on power grids. Due to this, power grids are inadequate to fulfill the ever-increasing demands of EVs in the future. In this context, we propose a Blockchain Enabled Energy Trading (BEET) framework oriented EV charging. A system architecture of the BEET framework is presented to describe the functioning of each layer and its associated entities. We formulate an optimization problem that maximizes the revenue in the energy trading process using a knapsack optimization. Smart contracts are designed on the consortium blockchain network to sell and buy renewable energy to aggregators and from producers, respectively. Moreover, an EV charging mechanism is designed to intelligently allocate renewable energy to consumers at a low price. A comparative analysis is performed with state-of-the-art works in terms of charging price, revenue, throughput, and latency. The results indicate that the BEET framework outperforms compared to state-of-the-art works to address the renewable energy demand problem to realize E-mobility. It is clarified that the data considered in the experimental analysis were obtained from statistical simulations in realistic E-Mobility environment settings. |
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
