@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.19
+## Updated on 2026.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -153,7 +153,7 @@
 |**Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains**|**Dependable Systems and Networks**| Reentrancy attacks remain a persistent threat to blockchain smart contracts today, causing significant financial losses despite numerous defense mechanisms. This paper presents a comprehensive analysis of 73 real-world reentrancy attacks on EVM-compatible blockchains from 2016 to 2024, investigating the factors contributing to their continued prevalence. Through integrated qualitative and quantitative analyses, we identify key trends in exploited vulnerabilities, track the evolution of attacker techniques, and expose a widening gap between academic research and real-world practice. Our findings reveal that reentrancy attacks are more diverse and sophisticated than previously understood, frequently involving complex interactions across multiple contracts, projects, and even blockchains. Critically, we highlight how attackers are adapting to bypass traditional detection and defense techniques. This research provides crucial insights into the evolving threat landscape, challenges outdated assumptions, and offers practical guidelines for developing more robust and effective reentrancy defenses. |
 |**Blockchain-Based MIMO AAV-Aided Mobile Edge Computing**|**IEEE Transactions on Mobile Computing**| Autonomous aerial vehicle (AAV)-aided mobile edge computing (MEC) with a blockchain consensus algorithm is a promising solution for addressing mobile offloading of computation-intensive or latency-sensitive tasks with extensive service range, while ensuring the authenticity of the offloading. Existing autonomous aerial vehicle (AAV)-aided MEC studies focus on task offloading or trajectory planning of single-antenna AAVs, missing multiple-input multiple-output (MIMO) AAV systems. In addition, most blockchain-based AAV-aided edge computing studies adopt energy-consuming proof-of-work-based consensus mechanisms, which are unsuitable for energy-limited AAV scenarios. To address the above issues, in this paper, we develop a joint deadline-aware task offloading and AAV trajectory planning scheme, utilizing the effects simulated through an energy-efficient consensus protocol. In order to prevent the exhaustion of AAVs’ energy and ensure the authenticity of decision-making, we propose an energy-based Raft (E-Raft) consensus algorithm, enabling dynamic leader selection through a series of decreasing energy thresholds. Subsequently, we present a computational profit maximization problem to jointly optimize deadline-aware task offloading and the AAV swarm’s trajectory planning. To address this NP-hard problem, we develop an online priority-based task offloading and trajectory selection algorithm, which is performed by the selected leader of the E-Raft consensus in each round. Simulation results demonstrate that our proposed scheme achieves up to 40% performance improvement over other approaches. |
 
-<p align=right>(<a href=#Updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
